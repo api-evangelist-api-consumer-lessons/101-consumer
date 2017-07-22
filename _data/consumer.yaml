@@ -259,17 +259,17 @@
   video: ''
   audio: ''
   issue: ''
-- slug: In Conclusion
-  title: In Conclusion
+- slug: apis-today
+  title: APIs Today
   description: >-
-    In 2014 we are moving well beyond the old days of API mashups, or even
-    applications using just a handful of APis. Applications are depending on
-    entire stack of APIs, employing 10s or 100s of API resources to deliver
-    applications across multiple web and mobile channels. Consuming APIs aren't
-    just for developers, and about building applications, APIs are fueling many
-    new trends that allow even non-developers to consume APIs and put them to
-    use in documents, spreadsheets, and other common tools we depend on everyday
-    for our personal and professional lives.
+    We are moving well beyond the old days of API mashups, or even applications
+    using just a handful of APis. Applications are depending on entire stack of
+    APIs, employing 10s or 100s of API resources to deliver applications across
+    multiple web and mobile channels. Consuming APIs aren't just for developers,
+    and about building applications, APIs are fueling many new trends that allow
+    even non-developers to consume APIs and put them to use in documents,
+    spreadsheets, and other common tools we depend on everyday for our personal
+    and professional lives.
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
