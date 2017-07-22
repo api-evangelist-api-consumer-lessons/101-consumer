@@ -23,12 +23,16 @@
 - slug: starts-with-a-need
   title: Starts with a Need
   description: >-
-    API consumers rarely want to use an API, just to learn about APIs, they have
-    a need, a problem they need to solve. They want to provide a feature in
+    <p>API consumers rarely want to use an API, just to learn about APIs, they
+    have a need, a problem they need to solve. They want to provide a feature in
     their website, or mobile application. Often times people just want two
     systems to talk to each other, or be able to analyze and visualize
     information in a particular way, to accomplish a business or personal
-    objective.
+    objective.</p><p>When helping folks understand what is possible with APIs, I
+    always ask about their motivations for doing APIs. APIs can be a lot of
+    different things to a lot of different people, and helping make sure API
+    conversations are relevant to your business, career, and personal interests
+    helps make it something you'll keep coming back to learn more about.</p>
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
@@ -44,6 +48,10 @@
     The API savvy technologists are aware of the vast wealth of APis available
     today, and know to Google for the API they need, visit API directories like
     ProgrammableWeb or Mashape, and emerging API search engines like APIs.io.
+    Even with the handful of API discovery solutions out there, sometimes the
+    best way to find an API is by using a search engine, and just relying on the
+    web to find machine readable versions of the data and content you are
+    needing.
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
@@ -90,91 +98,20 @@
   video: ''
   audio: ''
   issue: ''
-- slug: monetization
-  title: Monetization
-  description: >-
-    There are plenty of API projects to be had for fun and hobby, but for any
-    project to be sustainable it must generate revenue and be able to sustain
-    itself. There several proven approaches to generating revenue around API
-    integration including application sales, providing premium features, selling
-    content or subscription to the content, advertising, in-app payments,
-    affiliate links, data generation, and through partnership. Of course there
-    is always the independently funded efforts, which make things easier.
-  link-1-label: ''
-  link-1-url: ''
-  link-2-label: ''
-  link-2-url: ''
-  image-1: ''
-  image-2: ''
-  video: ''
-  audio: ''
-  issue: ''
 - slug: software-as-a-service
   title: Software as a Service (SaaS)
   description: >-
-    The primary motivation for API integration is to provide access to data,
+    <p>The primary motivation for API integration is to provide access to data,
     content, and other resources available in online Software as a Service
     (SaaS) platforms. Services like Evernote for notes, Pinboard for links,
     Flickr for photos, and Youtube for videos, all use APIs to enable
     integration with other applications, as well as basic data portability for
-    software users.
-  link-1-label: ''
-  link-1-url: ''
-  link-2-label: ''
-  link-2-url: ''
-  image-1: ''
-  image-2: ''
-  video: ''
-  audio: ''
-  issue: ''
-- slug: platform-as-a-service
-  title: Platform as a Service (PaaS)
-  description: >-
-    Like SaaS, its cousin Platform as a Service (PaaS) employ APIs to enable
-    application providers, developers, and hackers with the ability for rapidly
-    deploy applications ranging from Wordpress, to ElasticSearch. Usually if an
-    application is running on PaaS platforms like Heroku, or Google Apps Engine,
-    there is a set of APIs for configuring, monitoring and managing most aspects
-    of the app.
-  link-1-label: ''
-  link-1-url: ''
-  link-2-label: ''
-  link-2-url: ''
-  image-1: ''
-  image-2: ''
-  video: ''
-  audio: ''
-  issue: ''
-- slug: infrastructure-as-a-service
-  title: Infrastructure as a Service (IaaS)
-  description: >-
-    The savviest of IT Operations have moved to the cloud, and run all of their
-    infrastructure using Infrastructure as a Service (IaaS) providers like
-    Amazon Web Services for everything from server capacity, and storage to DNS
-    and content delivery networks (CDN). Every piece of IT infrastructure that
-    runs in the cloud has an API or CLI interface for it, allowing the
-    management of all IaaS infrastructure programmatically.
-  link-1-label: ''
-  link-1-url: ''
-  link-2-label: ''
-  link-2-url: ''
-  image-1: ''
-  image-2: ''
-  video: ''
-  audio: ''
-  issue: ''
-- slug: backend-as-a-service
-  title: Backend as a Service (BaaS)
-  description: >-
-    As if we needed another acronym, but here we go, Backend as a Service (BaaS)
-    is an approach for providing web and mobile app developers with a way to
-    connect their applications to backend cloud storage and processing while
-    also providing common features such as user management, push notifications,
-    social networking integration, and other features that mobile users demand
-    from their apps these days. As approaches to API deployment evolve, we are
-    seeing more API deployment platforms emerge that very much resemble earlier
-    goals of BaaS, allowing for the agile deployment, and consumption of
-    valuable resources, via BaaS platform APIs.
+    software users.</p><p>Learning about the APIs that exist for the services
+    you already depend on is a great way to apply APIs in a meaningful way, that
+    can make an impact on how you work and do business. If you are using the
+    mobile app of any online platform, there is a good chance they have an API
+    that you can also put to use to better make sense of the data, content,
+    images, video, and other information you depend on online.
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
